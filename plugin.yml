@@ -1,0 +1,14 @@
+main: XCraft.Main
+name: XCraft
+version: 0.1
+authors: TheCoffeeBean, Mr_Black_Is_Back
+
+commands:
+   xinfo:
+      description: Displays info on the XCraft plugin.
+      usage: /<command>
+      
+permissions:
+   xcraft.info:
+      description: xinfos permission node.
+      default: true
